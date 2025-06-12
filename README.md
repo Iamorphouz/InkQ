@@ -1,8 +1,14 @@
-# 🖋️ InkQ — Scribble Recognition Web App
+# 🖋️ InkQ — Where Scribbles Meet Intelligence
 
 InkQ is an intelligent web application that turns your freehand scribbles into meaningful insights — whether it’s solving mathematical expressions, interpreting equations, or understanding abstract visual concepts. Just draw, and let the AI do the thinking.
 
-![InkQ Demo Banner](banner_placeholder.png) <!-- Replace with actual banner image -->
+## 🚀 InkQ Demo
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1cc01e75-9cb1-4808-977f-f54ee9e37d16" width="45%" />
+  <img src="https://github.com/user-attachments/assets/a128f8d2-6784-4043-b1f0-8eb80fdf5743" width="45%" />
+</p>
+
+
 
 ---
 
