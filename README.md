@@ -3,6 +3,7 @@
 InkQ is an intelligent web application that turns your freehand scribbles into meaningful insights — whether it’s solving mathematical expressions, interpreting equations, or understanding abstract visual concepts. Just draw, and let the AI do the thinking.
 
 ## 🚀 InkQ Demo
+<a href = "https://www.linkedin.com/posts/zeeshan-mujawar-iz_inkq-ai-scribblerecognition-activity-7338863335062355970-y2I-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC1c5rkB9nwv36RpYxDq_uP9y1UYRss1lhc">📸 Video Demo</a>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1cc01e75-9cb1-4808-977f-f54ee9e37d16" width="45%" />
   <img src="https://github.com/user-attachments/assets/a128f8d2-6784-4043-b1f0-8eb80fdf5743" width="45%" />
